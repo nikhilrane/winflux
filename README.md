@@ -7,8 +7,8 @@ This it does by demonstrating a simple alternative to use the concept of file sy
 
 WinFlux preserves the ideology of inodes in Linux File Systems by implementing the file system data structures (inodes, superblock, etc) along with their standard operations in the user-space. Thus it demonstrates that any type of data structure can be implemented in user space; irrespective of the ones defined in the kernel.
 
-Group:
-1. Pankaj Lagu
-2. Sumitra Madhav
-3. Prasad Phadnis
-4. Nikhil Rane
+    Group:
+    1. Pankaj Lagu
+    2. Sumitra Madhav
+    3. Prasad Phadnis
+    4. Nikhil Rane
